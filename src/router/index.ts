@@ -8,7 +8,7 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      redirect: '/pedidos/gerenciar'
+      redirect: '/pedidos/historico'
     },
     {
       path: '/pedidos/novo',
